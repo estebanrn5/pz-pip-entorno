@@ -5,7 +5,6 @@ import pandas as pd
 
 def run():
 
-
     '''
     data = list(filter(lambda item : item['Continent'] == 'South America',data))
 
